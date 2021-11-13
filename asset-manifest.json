@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://osamazaidiah.github.io/csb-22rg4/static/css/main.eeb51060.chunk.css",
+    "main.js": "https://osamazaidiah.github.io/csb-22rg4/static/js/main.0c944619.chunk.js",
+    "main.js.map": "https://osamazaidiah.github.io/csb-22rg4/static/js/main.0c944619.chunk.js.map",
+    "runtime-main.js": "https://osamazaidiah.github.io/csb-22rg4/static/js/runtime-main.eeccd45a.js",
+    "runtime-main.js.map": "https://osamazaidiah.github.io/csb-22rg4/static/js/runtime-main.eeccd45a.js.map",
+    "static/js/2.f15faaa3.chunk.js": "https://osamazaidiah.github.io/csb-22rg4/static/js/2.f15faaa3.chunk.js",
+    "static/js/2.f15faaa3.chunk.js.map": "https://osamazaidiah.github.io/csb-22rg4/static/js/2.f15faaa3.chunk.js.map",
+    "index.html": "https://osamazaidiah.github.io/csb-22rg4/index.html",
+    "static/css/main.eeb51060.chunk.css.map": "https://osamazaidiah.github.io/csb-22rg4/static/css/main.eeb51060.chunk.css.map",
+    "static/js/2.f15faaa3.chunk.js.LICENSE.txt": "https://osamazaidiah.github.io/csb-22rg4/static/js/2.f15faaa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeccd45a.js",
+    "static/js/2.f15faaa3.chunk.js",
+    "static/css/main.eeb51060.chunk.css",
+    "static/js/main.0c944619.chunk.js"
+  ]
+}
